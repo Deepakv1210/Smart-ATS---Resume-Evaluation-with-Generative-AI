@@ -8,6 +8,14 @@ Welcome to Smart ATS, a Streamlit app powered by Google's GenerativeAI. This too
 - Paste the job description for tailored evaluation.
 - Get a detailed response with a percentage match, missing keywords, and a profile summary.
 
+## Website Link
+
+https://smart-ats-resume-evaluation-with-generative-ai.streamlit.app/
+
+## Demo Results
+
+<img width="827" alt="image" src="https://github.com/Deepakv1210/Smart-ATS---Resume-Evaluation-with-Generative-AI/assets/154148155/e3fc10f6-7fce-49cd-a94e-9befb8c36df0">
+
 ## Example Response Format
 
 ```json
