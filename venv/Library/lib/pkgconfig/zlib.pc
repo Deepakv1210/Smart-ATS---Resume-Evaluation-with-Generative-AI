@@ -1,0 +1,13 @@
+prefix=E:/git_repos/ats/venv/Library
+exec_prefix=E:/git_repos/ats/venv/Library
+libdir=E:/git_repos/ats/venv/Library/lib
+sharedlibdir=E:/git_repos/ats/venv/Library/lib
+includedir=E:/git_repos/ats/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
